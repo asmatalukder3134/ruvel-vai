@@ -36,7 +36,9 @@ public class A1 {
 	}
 	public void githubtesting(){
 	}
-		
+		public void gotorepo() {
+			
+		}
 	
 }
 
