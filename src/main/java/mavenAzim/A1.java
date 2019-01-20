@@ -34,7 +34,9 @@ public class A1 {
 	public void sendkey(By by) {
 		dr.findElement(by).sendKeys();
 	}
-	
+	public void githubtesting(){
+	}
+		
 	
 }
 
